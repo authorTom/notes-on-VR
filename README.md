@@ -1,2 +1,2 @@
-# notes-on-VR
-Notes on VR
+# Notes on VR
+
