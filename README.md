@@ -1,5 +1,5 @@
 # Notes on VR
-These are my notes on developing VR.
+These are my notes on VR development.
 ## User Experience in VR
 ## Motion sickness
 * All users are different, some get sick some don’t. <br />
