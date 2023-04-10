@@ -22,3 +22,15 @@ A normal map is a type of texture map that adds detail to a model without increa
 * They are generally fine for small details but are not recommended for larger deatils. <br />
 * Normal maps may not be convincing enough. <br />
 * You will need to use more geometry to give a sense of depth. More geometry = greater complexity = lower performance. <br />
+## Cone of Focus
+The "cone of focus" problem refers to the limited area within a VR headset where the image is in focus. This can cause eye strain and make it difficult to read or see certain details. The key is that you don’t want the user to focus on small details. There are ways we can help solve this. <br />
+* Eye-tracking. <br />
+* Foveated rendering. <br />
+* Reduce the need for users to focus on small details or text that is difficult to read. This can involve using larger fonts or graphics, reducing clutter in the environment, and simplifying user interfaces. <br />
+* Object placement - Ensure that important objects are placed within the user's central field of view, and that the user doesn't need to strain their eyes to see important details. <br />
+## Affordances
+Affordances refer to the properties of objects or elements that suggest how they can be interacted with by the user. Affordances are important because they help users to understand how to interact with the environment and its objects. <br />
+* Visual: A button that appears raised or has a shadow under it suggests that it can be pressed. A door handle that is positioned at the height of the user's hand suggests that it can be grabbed and pulled. <br />
+* Auditory: A sound effect that plays when the user's hand is near an object suggests that it can be interacted with. A different sound effect that plays when the user successfully interacts with an object suggests that the interaction was successful. <br />
+* Haptic: The sensation of resistance when trying to push a heavy object suggests that it requires more force to move. The sensation of vibrations when touching an object suggests that it is interactive. <br />
+
