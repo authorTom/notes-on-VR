@@ -30,9 +30,9 @@ The "cone of focus" problem refers to the limited area within a VR headset where
 * Object placement - Ensure that important objects are placed within the user's central field of view, and that the user doesn't need to strain their eyes to see important details. <br />
 ## Affordances
 Affordances refer to the properties of objects or elements that suggest how they can be interacted with by the user. Affordances are important because they help users to understand how to interact with the environment and its objects. <br />
-* Visual: A button that appears raised or has a shadow under it suggests that it can be pressed. A door handle that is positioned at the height of the user's hand suggests that it can be grabbed and pulled. <br />
-* Auditory: A sound effect that plays when the user's hand is near an object suggests that it can be interacted with. A different sound effect that plays when the user successfully interacts with an object suggests that the interaction was successful. <br />
-* Haptic: The sensation of resistance when trying to push a heavy object suggests that it requires more force to move. The sensation of vibrations when touching an object suggests that it is interactive. <br />
+* **Visual:** A button that appears raised or has a shadow under it suggests that it can be pressed. A door handle that is positioned at the height of the user's hand suggests that it can be grabbed and pulled. <br />
+* **Auditory:** A sound effect that plays when the user's hand is near an object suggests that it can be interacted with. A different sound effect that plays when the user successfully interacts with an object suggests that the interaction was successful. <br />
+* **Haptic:** The sensation of resistance when trying to push a heavy object suggests that it requires more force to move. The sensation of vibrations when touching an object suggests that it is interactive. <br />
 ## My Other Projects
 [➡️ Notes on VR Performance](https://github.com/authorTom/notes-on-VR-performance) <br />
 [➡️ Notes on VR Development](https://github.com/authorTom/notes-on-VR) <br />
