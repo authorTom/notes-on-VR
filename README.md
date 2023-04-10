@@ -2,7 +2,11 @@
 ## User Experience in VR
 ## Motion sickness
 * All users are different, some get sick some don’t. <br />
+* Rapid movement will make people feel sick. <br />
+* If you have a horizon line keep it steady. <br />  
+* Avoid rapid or abrupt transitions. <br />
 * Blink locomotion helps with motion sickness. <br />
+* Bright scenes are fatiguing. <br />
 * Decide on your locomotion method, test, test, and test again. <br />
 ## Interfaces
 * Interfaces need to exist within the game. Not just on top of he users vision <br />
