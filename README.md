@@ -1,5 +1,5 @@
 # Notes on VR
-These are my notes on VR development.
+These are my notes on VR. A little unorganised and work in progress.
 ## Interactions
 With VR interaction, it’s important to consider various factors that affect the user experience, including how movement and interaction are mapped to different parts of the body. It's crucial to avoid mapping movement to fingers or interactions to the head. <br />
 * Mapping Movement to Fingers: Mapping movement to fingers can be problematic as it can cause discomfort or even pain in the user's hand and fingers over time. This is because prolonged use of hand and finger movements can cause fatigue and strain on the muscles and tendons. <br />
