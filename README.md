@@ -43,6 +43,17 @@ Affordances refer to the properties of objects or elements that suggest how they
 * The “Uncanny Valley” phenomenon occurs when representations of human-like or realistic characters cause a sense of discomfort or unease. This is due to the slight imperfections or deviations from reality, which can create a sense of eeriness or unsettling feeling. <br />
 * Representing hands in VR is particularly tricky, as clunky or awkward hand movements can break immersion and distract from the experience. Alchemy Labs has solved this problem by using cartoon hands, which work better than more realistic representations. <br />
 * Sometimes, non-realistic representations of items and actions can actually enhance the user's experience and keep them more immersed in the virtual environment. For example, abstract representations of objects or environments can create a more stylized or artistic feel, which can be more engaging than strictly realistic representations. <br />
+### Gestures
+* Avoid "Simulation Fatigue" by minimising the number of gestures required to complete a task, ensure they are easy to perform and remember. <br />
+* Gestures should be meaningful and closely tied to the action or interaction being performed. <br /> 
+* Beware of using metaphors with interactions, as this can introduce limitations and assumptions based on real-world interaction. <br />
+* Focus on designing gestures that are optimised for VR and the specific interaction being performed. <br />
+* Accommodate the extraordinary by considering the unique capabilities of VR, such as 6DOF tracking and haptic feedback. <br />
+### Fitts' Law
+* A well-known principle in human-computer interaction that describes the relationship between the size and distance of a target and the time it takes to reach that target. <br />
+* Fitts' law states that the time it takes to move to a target is proportional to the distance to the target and inversely proportional to the size of the target. This means that the larger and closer a target is, the faster and more accurately it can be reached. <br />
+* In a VR game or application, one can use Fitts' law to determine the optimal size and spacing of interactive elements, such as buttons, menus, and other UI components. By making these elements large enough and well-spaced, users will be able to interact with them more quickly and accurately, resulting in a smoother and more enjoyable experience. <br />
+* Fitts' law can also be used to optimise the motion controllers. By designing controllers with larger buttons and more ergonomic shapes, users will be able to make more accurate and efficient movements. <br />
 
 ## Graphics
 ### Normal Maps
