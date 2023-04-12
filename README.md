@@ -20,6 +20,12 @@ Developing teleportation locomotion within VR can greatly enhance the user exper
 * Blink locomotion helps with motion sickness. <br />
 * Bright scenes are fatiguing. <br />
 * Decide on your locomotion method, test, test, and test again. <br />
+### Input Taxonomy
+1. **6 DOF Manipulation:** This approach involves using controllers or other input devices to manipulate objects or move within the virtual environment. It allows for more natural and precise interaction within the world. This approach is useful because it can increase the sense of presence and immersion for the user. <br />
+2. **Pointing:** Pointing is a way to interact with objects in the environment, including those that are within and beyond reach. It allows the user to direct their attention and actions towards specific objects or locations. This approach is useful because it enables the user to interact with the environment in a more natural way. <br />
+3. **Hand Controls:** Hand controls enable the user to interact with the environment through hand gestures and movements such as actuation and swiping. This approach allows for more nuanced and natural interaction. <br />
+4. **Ambient Invocation:** involves interaction such as voice commands to interact with the environment, which tend to be infrequent and indirect. This approach can reduce the cognitive load on the user and provide a more seamless and natural interaction with the environment. <br />
+5. **Subconscious:** Subconscious input is a background process that captures the user's movements and inputs without their conscious attention. This enables natural and intuitive interaction, without requiring the user to actively think about their inputs (reduces cognitive load). <br />
 ### Interfaces
 * Interfaces need to exist within the game. Not just on top of he users vision <br />
 * Menus and buttons will need to accommodate for the Field of View (FOV) of the headset. <br />
@@ -31,6 +37,13 @@ Affordances refer to the properties of objects or elements that suggest how they
 * **Visual:** A button that appears raised or has a shadow under it suggests that it can be pressed. A door handle that is positioned at the height of the user's hand suggests that it can be grabbed and pulled. <br />
 * **Auditory:** A sound effect that plays when the user's hand is near an object suggests that it can be interacted with. A different sound effect that plays when the user successfully interacts with an object suggests that the interaction was successful. <br />
 * **Haptic:** The sensation of resistance when trying to push a heavy object suggests that it requires more force to move. The sensation of vibrations when touching an object suggests that it is interactive. <br />
+* To effectively use affordances, tune them to serve the desired user experience and ensure that they align with expectations. This involves ensuring the affordances behave in a predictable and consistent manner. <br />
+* Affordances can be either static or dynamic, depending on whether they remain the same or change over time based on user interactions or other factors. It's important to consider the context in which affordances are used, as this can impact their perceived usefulness and relevance. <br />
+### Uncanny Valley
+* The “Uncanny Valley” phenomenon occurs when representations of human-like or realistic characters cause a sense of discomfort or unease. This is due to the slight imperfections or deviations from reality, which can create a sense of eeriness or unsettling feeling. <br />
+* Representing hands in VR is particularly tricky, as clunky or awkward hand movements can break immersion and distract from the experience. Alchemy Labs has solved this problem by using cartoon hands, which work better than more realistic representations. <br />
+* Sometimes, non-realistic representations of items and actions can actually enhance the user's experience and keep them more immersed in the virtual environment. For example, abstract representations of objects or environments can create a more stylized or artistic feel, which can be more engaging than strictly realistic representations. <br />
+
 ## Graphics
 ### Normal Maps
 A normal map is a type of texture map that adds detail to a model without increasing the polygon count. Normal maps simulate the effect of bumps and wrinkles on the surface of a model by encoding surface normals as RGB values. By encoding the surface normals in this way, the normal map can be used to create the illusion of depth and detail on a flat, low-poly surface. When a normal map is applied the graphics engine uses the encoded surface normals to calculate how light interacts with the surface of the object. This creates the illusion of depth and detail, even though the actual geometry of the model is relatively simple.
