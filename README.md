@@ -30,8 +30,6 @@ Developing teleportation locomotion within VR can greatly enhance the user exper
 * Interfaces need to exist within the game. Not just on top of he users vision <br />
 * Menus and buttons will need to accommodate for the Field of View (FOV) of the headset. <br />
 * Due to limited resolutions, buttons and text need to be obvious and easy to see. <br />
-### Sound
-* Sound design is very important; it needs to immerse your user and be spatial. <br />
 ### Affordances
 Affordances refer to the properties of objects or elements that suggest how they can be interacted with by the user. Affordances are important because they help users to understand how to interact with the environment and its objects. <br />
 * **Visual:** A button that appears raised or has a shadow under it suggests that it can be pressed. A door handle that is positioned at the height of the user's hand suggests that it can be grabbed and pulled. <br />
