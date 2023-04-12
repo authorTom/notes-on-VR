@@ -1,5 +1,5 @@
 # Notes on VR
-These are my notes on VR. A little unorganised and work in progress.
+My notes on VR. A little unorganised and work in progress.
 ## Interactions
 With VR interaction, it’s important to consider various factors that affect the user experience, including how movement and interaction are mapped to different parts of the body. It's crucial to avoid mapping movement to fingers or interactions to the head. <br />
 * Mapping Movement to Fingers: Mapping movement to fingers can be problematic as it can cause discomfort or even pain in the user's hand and fingers over time. This is because prolonged use of hand and finger movements can cause fatigue and strain on the muscles and tendons. <br />
@@ -49,6 +49,23 @@ Affordances refer to the properties of objects or elements that suggest how they
 * Beware of using metaphors with interactions, as this can introduce limitations and assumptions based on real-world interaction. <br />
 * Focus on designing gestures that are optimised for VR and the specific interaction being performed. <br />
 * Accommodate the extraordinary by considering the unique capabilities of VR, such as 6DOF tracking and haptic feedback. <br />
+### Haptics
+Here are some ways that haptic feedback can be used: <br />
+* **Elevate a VR experience:** create a more realistic and immersive experience by providing physical sensations that correspond to the virtual environment.
+_Example - shooting game - haptic feedback can simulate the recoil of a weapon, providing a more realistic and engaging experience for the player._ <br />
+
+* **Improve spatial awareness:** Haptic feedback can be used to enhance the user's sense of spatial awareness by providing tactile feedback that corresponds to the virtual environment.
+_Example - driving simulator - haptic feedback can simulate the sensation of the car hitting a bump or going over a rough surface, providing the user with a more realistic sense of the car's movement._ <br />
+
+* **Trigger proprioceptive anchors:** Haptic feedback can be used to trigger proprioceptive anchors, which are the mental associations that we make between physical sensations and certain actions or movements.
+_Example - tennis game - haptic feedback can be used to simulate the sensation of hitting a ball with a racket, triggering the proprioceptive anchor associated with that movement._ <br />
+
+* **Continuous Friction, Texture and Elasticity:** Haptic feedback can also provide users with a continuous experience by simulating the friction, texture, and elasticity of objects.
+_Example - puzzle game - haptic feedback can be used to simulate the texture of a wooden block, providing the user with a more realistic and tactile experience as they manipulate the object._ <br />
+
+* **Vibrate:** Often the controllers are outside the field of view. Let them know there is something interesting going on: Haptic feedback can also be used to alert the user to events or interactions that are happening outside of their field of view.
+_Example - in a game where the controllers are outside the user's field of view, haptic feedback can be used to “tap the user on the shoulder” when there is something interesting or important happening._ <br />
+
 ### Fitts' Law
 * A well-known principle in human-computer interaction that describes the relationship between the size and distance of a target and the time it takes to reach that target. <br />
 * Fitts' law states that the time it takes to move to a target is proportional to the distance to the target and inversely proportional to the size of the target. This means that the larger and closer a target is, the faster and more accurately it can be reached. <br />
