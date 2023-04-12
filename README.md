@@ -65,6 +65,18 @@ _Example - puzzle game - haptic feedback can be used to simulate the texture of 
 
 * **Vibrate:** Often the controllers are outside the field of view. Let them know there is something interesting going on: Haptic feedback can also be used to alert the user to events or interactions that are happening outside of their field of view.
 _Example - in a game where the controllers are outside the user's field of view, haptic feedback can be used to “tap the user on the shoulder” when there is something interesting or important happening._ <br />
+### Inattentional Blindness
+* Inattentional blindness refers to where a user fails to notice an unexpected or significant stimulus. <br />
+* A user might be so focused on completing an objective or interacting with a character that they fail to notice a key piece of information or an important object that could help them progress. Similarly, in a training simulation, a user may miss a critical instruction or warning due to being absorbed in the simulation. <br />
+* Carefully design the environment to direct user attention to important stimuli and by providing adequate cues and feedback to ensure users don't miss important information. <br />
+### Cognitive Load
+* Cognitive load refers to the amount of mental effort required by a user to complete a task or process information. <br />
+* The complexity of the imagery can have a significant impact on cognitive load, as it can affect the user's ability to process and interpret information. For example, if the imagery is too complex or cluttered, it can be difficult for the user to focus on the most important elements of the environment. This can result in a higher cognitive load, as the user must use more mental effort to process the information and complete the task.  <br />
+* To draw users' attention to where we want them to focus, it's important to design the VR environment with visual cues that guide their attention. This can include using color, lighting, and motion to highlight important elements of the environment and draw the user's gaze to where it's needed.  <br />
+### Physical Load
+* Refers to the amount of physical effort and strain required by a user to interact with objects or the environment. <br />
+* Can be influenced by various factors such as the size and weight of objects and the complexity of interactions required. <br />
+* You can reduce physical load by creating interactions that are natural, intuitive, and require minimal physical effort. This can involve natural hand gestures or voice commands for object manipulation, reducing the size and weight of objects, and minimising the amount of repetitive physical actions required. <br />
 
 ### Fitts' Law
 * A well-known principle in human-computer interaction that describes the relationship between the size and distance of a target and the time it takes to reach that target. <br />
