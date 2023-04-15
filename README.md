@@ -25,6 +25,21 @@ Developing teleportation locomotion within VR can greatly enhance the user exper
 * Blink locomotion helps with motion sickness. <br />
 * Bright scenes are fatiguing. <br />
 * Decide on your locomotion method, test, test, and test again. <br />
+<br />
+
+[📺 How NOT to Build a VR Arcade Game](https://youtu.be/uj8841GQuyc) discusses ways to avoid motion sickness within VR arcade games. Key points are summarised below. <br />
+* G-forces can be simulated in VR to create the sensation of movement without actually moving. This can help prevent motion sickness. <br />
+   * Vestibular stimulation can trick the brain into feeling acceleration or deceleration. <br />
+   * Visual cues like motion blur or blurred edges of the screen can create the illusion of speed and movement. <br />
+* Motion can be amplified, but it's important not to overdo it. Lots of tweaking, trial and error is recommended to find the right balance and reduce the risk of sickness. <br />
+* Avoid accelerating or turning the user, as sudden changes in direction can trigger motion sickness. <br />
+* The more wind the better, as it can provide a sense of movement and help prevent motion sickness. The direction of the wind is not crucial. This can help to reduce the disconnect between what the eyes see and what the body feels. <br /> 
+* Vertical motion requires vibration to create the sensation of movement. An easy way to add vibration is through a low frequency transducer such as the “Butt Kicker”. <br />
+* Add true randomness to environmental effects and haptic feedback, such as road bumps. Using a purlin noise function can help make the experience feel more organic and immersive. <br />
+* Motion and heat require visual indicators to help the brain understand the sensory input it's receiving. These indicators can include things like blurring the edges of the screen, changing color or brightness. <br />
+* Haptics require at least 240fps to feel smooth. Any less and the user may experience jarring or choppy sensations. <br />
+* Having objects of reference in the VR environment, such as the horizon or stationary objects, can help highlight that the user is moving and reduce motion sickness. <br />
+* The safest path to avoiding motion sickness is to avoid yaw, which is twisting on the y axis. If you must include yaw in your game, adding guard rails or other visual cues will help. <br />
 ### Input Taxonomy
 1. **6 DOF Manipulation:** This approach involves using controllers or other input devices to manipulate objects or move within the virtual environment. It allows for more natural and precise interaction within the world. This approach is useful because it can increase the sense of presence and immersion for the user. <br />
 2. **Pointing:** Pointing is a way to interact with objects in the environment, including those that are within and beyond reach. It allows the user to direct their attention and actions towards specific objects or locations. This approach is useful because it enables the user to interact with the environment in a more natural way. <br />
